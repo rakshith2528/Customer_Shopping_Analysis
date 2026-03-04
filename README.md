@@ -30,6 +30,7 @@ Gamma (for presentation creation)
 Jupyter Notebook / VS Code
 
 Project Steps
+
 1️⃣ Data Loading (Python)
 Imported dataset using Pandas
 Checked structure, data types, and summary statistics
